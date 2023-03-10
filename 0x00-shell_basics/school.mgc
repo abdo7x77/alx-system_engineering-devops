@@ -1,2 +1,3 @@
 0 sring HOLBERTON Holberton data
-!:mime Holberton
+!:mime School
+file -c -m school.mgc
