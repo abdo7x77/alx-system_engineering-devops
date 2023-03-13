@@ -1,0 +1,2 @@
+#!/bin/bach
+find . -mindepth1 d | wc -l
