@@ -1,2 +1,2 @@
 #!/bin/bach
-find . -mindepth1 d | wc -l
+find . -type d -not -name '.' | wc -l
