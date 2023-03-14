@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello $USRE
+echo hello $USER
